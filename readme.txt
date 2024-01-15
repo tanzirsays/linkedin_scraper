@@ -1,0 +1,1 @@
+you need to modify username and password in the parameters.py file. also u can change the search query as parameters.
